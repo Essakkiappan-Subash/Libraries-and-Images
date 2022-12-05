@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="26px" viewBox="0 0 16 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Button/Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Button/Bigger-Shape_Navy_1" transform="translate(-272.000000, -52.000000)" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="4">
+            <g id="Button/Arrow-white" transform="translate(274.000000, 54.000000)">
+                <polyline id="Path-5" transform="translate(5.272189, 11.000000) rotate(-90.000000) translate(-5.272189, -11.000000) " points="-5.72781065 5.72781065 5.27218935 16.2721893 16.2721893 5.72781065"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
